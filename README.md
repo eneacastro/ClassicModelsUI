@@ -9,6 +9,9 @@ Requirements:
 - MySQL Workbench
 
 1. Git Clone the repository into a folder.
+Inside the folder you want to recreate the repository, right click and launch a new git bash Git bash (Git Bash here). Then type:
+$ git clone https://github.com/osgarc/ClassicModelsUI.git
+
 A new folder called ClassicModelUI will be created.
 
 2. Re-Create de database with the data inside the script 'ClassicModelUI\DB_Classicmodels_tuned\db_classicmodel_tuned.sql'
